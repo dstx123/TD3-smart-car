@@ -12,6 +12,4 @@
 
 算法部署到小车实物中的演示效果：
 
-<video src="./video.MP4"></video>
-
 ![video](./video.MP4)
