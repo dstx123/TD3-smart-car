@@ -12,5 +12,5 @@
 
 算法部署到小车实物中的演示效果：
 
-<video src="F:\class\大三下小学期\视频.MP4"></video>
+<video src=".\video.MP4"></video>
 
