@@ -8,9 +8,9 @@
 
 训练2000轮的结果如下：
 
-![seed1-ep2000](.\seed1-ep2000.png)
+![seed1-ep2000](./seed1-ep2000.png)
 
 算法部署到小车实物中的演示效果：
 
-<video src=".\video.MP4"></video>
+<video src="./video.MP4"></video>
 
